@@ -1,0 +1,17 @@
+{
+  "name": "simple-webcrawler-javascript",
+  "version": "0.0.0",
+  "description": "Webcrawler written in JavaScript",
+  "main": "crawler2.js",
+  "author": "Ahmet",
+  "license": "ISC",
+  "dependencies": {
+    "cheerio": "^0.19.0",
+    "fs": "0.0.1-security",
+    "jsdom": "^15.1.1",
+    "request": "^2.65.0",
+    "url-parse": "^1.0.5",
+    "user-agents": "^1.0.396",
+    "web-midi-api": "^2.0.6"
+  }
+}
